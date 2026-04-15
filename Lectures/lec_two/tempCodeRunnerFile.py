@@ -1,0 +1,1 @@
+print("Lenth of your str is",len(nam)) 
